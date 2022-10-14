@@ -3,15 +3,14 @@
 # Start & Stop HAT PCB
 
 ## Features Raspberry
--  I2C SSD1306 OLED
 -  Cooling Fan 2510
--  Serial Communication [RPi <-> D1mini]
--  GCode Button 5x
--  GCode Button Led 5x
+-  GCode Button ~~5x~~ 3x
+-  GCode Button Led ~~5x~~ 3x
+-  Relay Connector for 2x 10A 250VAC
 
 ## Features D1mini
 -  Start & Stop relay [HF46F/5-HS1]
+-  I2C SSD1306 OLED
 -  Error LED [red 0805]
 -  WiFi-AP Config
 -  EEPROM saved Config
--  Serial Communication [RPi <-> D1mini]
